@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425149593270",
+    "project_id": "sharing-taxi-ekpawee",
+    "storage_bucket": "sharing-taxi-ekpawee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425149593270:android:20d5f2a48e949a5e871817",
+        "android_client_info": {
+          "package_name": "com.example.sharing_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425149593270-1rfe8vdsf0jphfjc5apu3trpn2uqugfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SmOYJNbMJFyD2cgkArJMHJtS9zfaTPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425149593270-1rfe8vdsf0jphfjc5apu3trpn2uqugfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
