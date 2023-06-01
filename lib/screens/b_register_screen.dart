@@ -84,7 +84,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                                 fontSize: MediaQuery.of(context)
                                                         .size
                                                         .width *
-                                                    0.2,
+                                                    0.15,
                                                 fontWeight: FontWeight.bold,
                                                 color: Colors.red)),
                                         const SizedBox(

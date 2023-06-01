@@ -882,8 +882,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         itemCount: snapshot.data!.docs.length,
                         itemBuilder: ((context, index) {
                           return SingleChildScrollView(
-                            child: Padding(
-                              padding: const EdgeInsets.only(right: 10),
+                            child: Container(
+                              // padding: const EdgeInsets.only(right: 10),
+                              margin : const EdgeInsets.symmetric(horizontal : 5),
                               child: SizedBox(
                                 width: 85,
                                 child: Column(

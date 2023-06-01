@@ -67,7 +67,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                             fontSize: MediaQuery.of(context)
                                                     .size
                                                     .width *
-                                                0.245,
+                                                0.2,
                                             fontWeight: FontWeight.normal,
                                             color: const Color.fromARGB(
                                                 255, 255, 255, 255))),
